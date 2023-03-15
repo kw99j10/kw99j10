@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div align=center>
-	<h1>Profile of Kyoung Won Jung</h1>	
+	<h1>Profile</h1>	
 </div>
 <div align=center>
-	<p>Using Language&Platform</p>
+	<p>Language&Platform</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -24,7 +24,7 @@
 </div>
 <br>
 <div align=center>
-	<p>Using Tools</p>
+	<p>Tools</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ %20IDEA-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
