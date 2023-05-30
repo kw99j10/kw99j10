@@ -9,7 +9,6 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-0769AD?style=flat&logo=SpringBoot&logoColor=white" />
  	<img src="https://img.shields.io/badge/SpringBoot-FCC624?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
