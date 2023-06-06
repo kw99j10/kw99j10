@@ -1,7 +1,7 @@
 ### I'm KyoungWon Jung 👋
 
 <div align=center>
-	<p>Language&FrameWork</p>
+	<h5>Language & FrameWork</h5>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align=center>
-	<p>Support Tools</p>
+	<h5>Support Tools</h5>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ %20IDEA-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
