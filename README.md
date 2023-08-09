@@ -7,7 +7,7 @@
 </div><br><br>
 
 <div align=center>
-	<h5>Language & FrameWork & DB</h5>
+	<h5>Technologies in use</h5>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align=center>
-	<h5>Used Language & DB & Tools</h5>
+	<h5>Technologies used</h5>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
@@ -50,4 +50,6 @@
 <div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true&theme=dracula">
-<br><br><br>
+<br>
+</div>
+<br><br>
