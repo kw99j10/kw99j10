@@ -56,5 +56,5 @@
 <div align=center>
 	<br>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/kw99j10/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
 </div>
