@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align=center>
-	<h4>Technologies used</h4>
+	<h4>Technologies & Tools used</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
