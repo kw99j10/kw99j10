@@ -7,7 +7,7 @@
 </div><br><br>
 
 <div align=center>
-	<h5>Technologies in use</h5>
+	<h4>Technologies in use</h4>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align=center>
-	<h5>Support Tools</h5>
+	<h4>Support Tools</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ %20IDEA-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align=center>
-	<h5>Technologies used</h5>
+	<h4>Technologies used</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
@@ -46,10 +46,15 @@
 </div>
 
 <br>
-
+<div align=center>
+	<h4>Log</h4>
+</div>
 <div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true&theme=dracula">
-<br>
 </div>
-<br><br>
+<div align=center>
+	<br>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/kw99j10/github-readme-stats)
+</div>
