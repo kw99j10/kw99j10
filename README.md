@@ -10,7 +10,7 @@
 	<h4>Technologies in use</h4>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/JPA (Hibernate)-00485B?style=flat&logo=Hibernate&logoColor=white"><br>
  	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
