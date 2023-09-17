@@ -4,7 +4,7 @@
 	
 ### I'm KyungWon Jung 👋 
 
-</div><br><br>
+</div><br>
 
 <div align=center>
 	<h4>Technologies in use</h4>
