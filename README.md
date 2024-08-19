@@ -75,6 +75,6 @@
 <div align=center>
 	<br>
 	
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kw99j10&show_icons=true&theme=dracula)
+![JungKyungWon's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kw99j10&show_icons=true&theme=dracula)
 
 </div>
