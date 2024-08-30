@@ -75,6 +75,13 @@
 <div align=center>
 	<br>
 	
-![JungKyungWon's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kw99j10&show_icons=true&theme=dracula)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kw99j10)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align=center>
+	<br>
+	
+![Anurag 님의 GitHub stats](https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true&theme=radical)
 
 </div>
