@@ -71,13 +71,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
 
 </div>
-
-<div align=center>
-	<br>
-	
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kw99j10)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<br>
 
 <div align=center>
 	<br>
