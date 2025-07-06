@@ -35,13 +35,11 @@
 	<h4>Support Tools</h4>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ %20IDEA-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /><br>
 	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -52,13 +50,6 @@
 	<img src="https://img.shields.io/badge/Eclipse Ide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /><br>
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
-</div>
-<div align=center>
-<br><br><br>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fkw99j10&count_bg=%233D99C8&title_bg=%23BE4C9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 <br>
